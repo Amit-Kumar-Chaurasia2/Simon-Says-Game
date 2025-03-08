@@ -1,49 +1,33 @@
-# Simon-Says-Game
-<h1><b>Simon Says Game</b></h1>
+# **Simon Says Game**  
 
-    <p>A simple <b>Simon Says</b> memory game built using <b>HTML, CSS, and JavaScript</b>. 
-        The player must memorize and repeat a sequence of colors that increases in length with each level.</p>
+A simple **Simon Says** memory game built using **HTML, CSS, and JavaScript**.  
+The player must memorize and repeat a sequence of colors that increases in length with each level.  
 
-    <h2><b>Features</b></h2>
-    <ul>
-        <li>✅ Interactive game with color-based sequences</li>
-        <li>✅ Tracks player <b>level</b> and <b>high score</b> (stored in memory, resets on refresh)</li>
-        <li>✅ Responsive design for a smooth experience</li>
-        <li>✅ Visual feedback for user inputs</li>
-    </ul>
+## **Features**  
+✅ Interactive game with color-based sequences  
+✅ Tracks player **level** and **high score** (stored in memory, resets on refresh)  
+✅ Responsive design for a smooth experience  
+✅ Visual feedback for user inputs  
 
-    <h2><b>How to Play</b></h2>
-    <ol>
-        <li>Press <b>any key</b> to start the game.</li>
-        <li>The game will flash a <b>color</b>; remember it.</li>
-        <li>Click the <b>buttons</b> in the correct sequence.</li>
-        <li>If correct, a <b>new color</b> is added to the sequence.</li>
-        <li>If incorrect, the game ends, and your <b>score & high score</b> are displayed.</li>
-        <li>Press <b>any key</b> to restart.</li>
-    </ol>
+## **How to Play**  
+1. Press **any key** to start the game.  
+2. The game will flash a **color**; remember it.  
+3. Click the **buttons** in the correct sequence.  
+4. If correct, a **new color** is added to the sequence.  
+5. If incorrect, the game ends, and your **score & high score** are displayed.  
+6. Press **any key** to restart.  
 
-    <h2><b>Technologies Used</b></h2>
-    <ul>
-        <li><b>HTML</b>: Structure of the game</li>
-        <li><b>CSS</b>: Styling and animations</li>
-        <li><b>JavaScript</b>: Game logic and event handling</li>
-    </ul>
+## **Technologies Used**  
+- **HTML**: Structure of the game  
+- **CSS**: Styling and animations  
+- **JavaScript**: Game logic and event handling  
 
-    <h2><b>Game Logic</b></h2>
-    <ul>
-        <li>The game <b>randomly</b> selects a color and flashes it.</li>
-        <li>The player must <b>repeat the sequence</b> correctly.</li>
-        <li>If the sequence is <b>correct</b>, the game progresses to the <b>next level</b>.</li>
-        <li>If <b>incorrect</b>, the game ends, and the <b>high score updates</b>.</li>
-    </ul>
+## **Game Logic**  
+- The game **randomly** selects a color and flashes it.  
+- The player must **repeat the sequence** correctly.  
+- If the sequence is **correct**, the game progresses to the **next level**.  
+- If **incorrect**, the game ends, and the **high score updates**.  
 
-    <h2><b>Future Improvements</b></h2>
-    <ul>
-        <li>🔹 <b>Persistent high score</b> using <code>localStorage</code></li>
-        <li>🔹 <b>Sound effects</b> for better feedback</li>
-        <li>🔹 <b>Mobile-friendly design</b></li>
-    </ul>
-
-    <h2><b>Project Setup</b></h2>
-    <p><b>Clone this repository:</b></p>
-    <p><b>Enjoy the game! 🎮</b></p>
+## **Future Improvements**    
+- 🔹 **Sound effects** for better feedback  
+- 🔹 **Mobile-friendly design**  
